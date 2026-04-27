@@ -1,0 +1,14 @@
+/home/par/minacontainers/mittcsharpconsole/learncsharp/bin/Debug/net8.0/learncsharp
+/home/par/minacontainers/mittcsharpconsole/learncsharp/bin/Debug/net8.0/learncsharp.deps.json
+/home/par/minacontainers/mittcsharpconsole/learncsharp/bin/Debug/net8.0/learncsharp.runtimeconfig.json
+/home/par/minacontainers/mittcsharpconsole/learncsharp/bin/Debug/net8.0/learncsharp.dll
+/home/par/minacontainers/mittcsharpconsole/learncsharp/bin/Debug/net8.0/learncsharp.pdb
+/home/par/minacontainers/mittcsharpconsole/learncsharp/obj/Debug/net8.0/learncsharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/par/minacontainers/mittcsharpconsole/learncsharp/obj/Debug/net8.0/learncsharp.AssemblyInfoInputs.cache
+/home/par/minacontainers/mittcsharpconsole/learncsharp/obj/Debug/net8.0/learncsharp.AssemblyInfo.cs
+/home/par/minacontainers/mittcsharpconsole/learncsharp/obj/Debug/net8.0/learncsharp.csproj.CoreCompileInputs.cache
+/home/par/minacontainers/mittcsharpconsole/learncsharp/obj/Debug/net8.0/learncsharp.dll
+/home/par/minacontainers/mittcsharpconsole/learncsharp/obj/Debug/net8.0/refint/learncsharp.dll
+/home/par/minacontainers/mittcsharpconsole/learncsharp/obj/Debug/net8.0/learncsharp.pdb
+/home/par/minacontainers/mittcsharpconsole/learncsharp/obj/Debug/net8.0/learncsharp.genruntimeconfig.cache
+/home/par/minacontainers/mittcsharpconsole/learncsharp/obj/Debug/net8.0/ref/learncsharp.dll
